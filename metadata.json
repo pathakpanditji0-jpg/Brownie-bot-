@@ -1,0 +1,6 @@
+{
+  "name": "Brownie Bot — Discord Roast & Economy Engine",
+  "description": "Gemini-powered Discord server bot simulator and generator with savage roast mode, Chocochips economy, bakery market, pets, and dual-owner admin controls for akshatkrofficial_47531 and killer_sole5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

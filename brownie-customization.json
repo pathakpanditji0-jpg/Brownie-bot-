@@ -1,0 +1,196 @@
+{
+  "config": {
+    "roastMode": true,
+    "roastIntensity": "Nuclear",
+    "customization": {
+      "customGreeting": "Welcome to {server}, @{user}! Keep your helmet on—Gemini Roast Brain is watching and akshatkrofficial_47531 & killer_sole5 run this turf. 🍫🔥",
+      "greetingEnabled": true,
+      "roastIntensity": "Nuclear",
+      "roastStyle": "Esports Caster",
+      "roastTopics": [
+        "rank hardstuck bronze gameplay",
+        "late night Discord yapping",
+        "zero Chocochips broke wallet energy",
+        "copy-paste comeback attempts",
+        "missed open net in overtime"
+      ],
+      "priorityTargets": [
+        {
+          "target": "shadow_yapper99",
+          "angle": "Spends 6 hours in voice chat yapping but still misses every daily streak",
+          "addedBy": "akshatkrofficial_47531"
+        },
+        {
+          "target": "choco_grinder",
+          "angle": "Grinds messages non-stop only to lose all Chocochips on a single coinflip",
+          "addedBy": "killer_sole5"
+        }
+      ],
+      "customPersonaDirective": "Blend sharp Desi Hinglish street wit with savage gaming banter; hype up akshatkrofficial_47531 and killer_sole5 as untouchable server legends.",
+      "updatedAt": 1794290512859,
+      "updatedBy": "akshatkrofficial_47531"
+    },
+    "chatbotChannelId": "roast-arena",
+    "botChannelIds": [
+      "roast-arena",
+      "bot-commands",
+      "bakery-market"
+    ],
+    "workChannelId": "bot-commands",
+    "messageGoal": 25,
+    "maxGameBet": 100000,
+    "slotJackpotMultiplier": 10,
+    "shopPrices": {
+      "work_kit": 5000,
+      "lucky_charm": 2500,
+      "xp_scroll": 1500,
+      "no_prefix_pass": 5000000
+    },
+    "bakeryPrices": {
+      "cookie": 65,
+      "chocolate": 140,
+      "cake": 320,
+      "brownie": 160,
+      "pastries": 110,
+      "puffs": 55,
+      "sweet_rolls": 95,
+      "donuts": 85
+    },
+    "bakeryMarketValues": {
+      "cookie": 58,
+      "chocolate": 115,
+      "cake": 275,
+      "brownie": 142,
+      "pastries": 88,
+      "puffs": 44,
+      "sweet_rolls": 76,
+      "donuts": 64
+    }
+  },
+  "accounts": {
+    "akshatkrofficial_47531": {
+      "wallet": 25000,
+      "bank": 100000,
+      "job": "Yapper",
+      "xp": 450,
+      "streak": 7,
+      "workKitOwned": true,
+      "workKitActive": true,
+      "noPrefixPass": true,
+      "xpScrolls": 3,
+      "luckyCharms": 2,
+      "bakeryInventory": {
+        "cookie": 3,
+        "brownie": 2,
+        "chocolate": 5
+      },
+      "browniePet": {
+        "name": "Destroyer Brownie",
+        "level": 8,
+        "xp": 340,
+        "happiness": 90,
+        "hunger": 85,
+        "evolution": "Growing Brownie"
+      },
+      "history": [
+        {
+          "text": "Owner vault initialized: +25,000 Chocochips",
+          "at": 1794286774424
+        }
+      ]
+    },
+    "killer_sole5": {
+      "wallet": 25000,
+      "bank": 100000,
+      "job": "Yapper",
+      "xp": 450,
+      "streak": 7,
+      "workKitOwned": true,
+      "workKitActive": true,
+      "noPrefixPass": true,
+      "xpScrolls": 3,
+      "luckyCharms": 2,
+      "bakeryInventory": {
+        "cookie": 3,
+        "brownie": 2,
+        "chocolate": 5
+      },
+      "browniePet": {
+        "name": "Destroyer Brownie",
+        "level": 8,
+        "xp": 340,
+        "happiness": 90,
+        "hunger": 85,
+        "evolution": "Growing Brownie"
+      },
+      "history": [
+        {
+          "text": "Owner vault initialized: +25,000 Chocochips",
+          "at": 1794286774424
+        }
+      ]
+    },
+    "shadow_yapper99": {
+      "wallet": 1200,
+      "bank": 3500,
+      "job": "Yapper",
+      "xp": 120,
+      "streak": 2,
+      "workKitOwned": false,
+      "workKitActive": false,
+      "noPrefixPass": false,
+      "xpScrolls": 1,
+      "luckyCharms": 0,
+      "bakeryInventory": {
+        "cookie": 3,
+        "brownie": 2,
+        "chocolate": 1
+      },
+      "browniePet": {
+        "name": "Cocoa",
+        "level": 2,
+        "xp": 60,
+        "happiness": 90,
+        "hunger": 85,
+        "evolution": "Baby Brownie"
+      },
+      "history": [
+        {
+          "text": "Starter grant: +1,200 Chocochips",
+          "at": 1794286774424
+        }
+      ]
+    },
+    "choco_grinder": {
+      "wallet": 1200,
+      "bank": 3500,
+      "job": "Messages Grinder",
+      "xp": 120,
+      "streak": 2,
+      "workKitOwned": false,
+      "workKitActive": false,
+      "noPrefixPass": false,
+      "xpScrolls": 1,
+      "luckyCharms": 0,
+      "bakeryInventory": {
+        "cookie": 3,
+        "brownie": 2,
+        "chocolate": 1
+      },
+      "browniePet": {
+        "name": "Cocoa",
+        "level": 2,
+        "xp": 60,
+        "happiness": 90,
+        "hunger": 85,
+        "evolution": "Baby Brownie"
+      },
+      "history": [
+        {
+          "text": "Starter grant: +1,200 Chocochips",
+          "at": 1794286774424
+        }
+      ]
+    }
+  }
+}
